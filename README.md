@@ -81,14 +81,13 @@ shape-distance-detector/
 
 * Auto-calibration using markers or QR codes for automatic scaling.
 * Export distance measurements and shape data to CSV files.
-* Measure distances between different types of shapes.
 * Add bounding box dimensions (width/height) in cm for each detected shape.
 * Support additional shapes and improved detection accuracy.
 
 ---
 
 ## 📸 Demo
-<!-- Uploading "Screenshot 2025-07-22 134116.png"... -->
+<img width="604" height="398" alt="Image" src="https://github.com/user-attachments/assets/840aa474-6f69-4c64-aa18-82837acd2317" />
 
 
 ---
