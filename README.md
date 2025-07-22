@@ -16,19 +16,7 @@ This is a Python-based real-time application that uses your webcam to **detect g
 
 ---
 
-## 📸 Demo
 
-IMAGES
-
-<!-- Uploading "Screenshot 2025-07-22 134116.png"... -->
-<!-- Uploading "Screenshot 2025-07-22 133846.png"... -->
-<!-- Uploading "Screenshot 2025-07-22 134020.png"... -->
-<!-- Uploading "Screenshot 2025-07-22 134847.png"... -->
-
-videos
-
-<!-- Uploading "Recording 2025-07-22 125548.mp4"... -->
-<!-- Uploading "Recording 2025-07-22 130510.mp4"... -->
 
 
 
@@ -108,6 +96,19 @@ shape-distance-detector/
 * Add bounding box dimensions in cm
 
 ---
+📸 Demo
+
+IMAGES
+
+<!-- Uploading "Screenshot 2025-07-22 134116.png"... -->
+<!-- Uploading "Screenshot 2025-07-22 133846.png"... -->
+<!-- Uploading "Screenshot 2025-07-22 134020.png"... -->
+<!-- Uploading "Screenshot 2025-07-22 134847.png"... -->
+
+videos
+
+<!-- Uploading "Recording 2025-07-22 125548.mp4"... -->
+<!-- Uploading "Recording 2025-07-22 130510.mp4"... -->
 
 ## 👤 Author
 
