@@ -14,14 +14,6 @@ This is a Python-based real-time application that uses your webcam to **detect g
 - 🧮 Easy calibration for accurate cm measurement
 - 📌 Center point detection and labeling
 
----
-
-
-
-
-
-
----
 
 ## 🛠️ Tech Stack
 
@@ -108,7 +100,6 @@ IMAGES
 videos
 
 <!-- Uploading "Recording 2025-07-22 125548.mp4"... -->
-<!-- Uploading "Recording 2025-07-22 130510.mp4"... -->
 
 ## 👤 Author
 
