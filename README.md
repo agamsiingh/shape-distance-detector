@@ -87,7 +87,15 @@ shape-distance-detector/
 ---
 
 ## 📸 Demo
+Images 
+<img width="597" height="407" alt="Image" src="https://github.com/user-attachments/assets/a9b24fcf-7d39-4b0a-a8df-4fbfa703c03d" />
+<img width="609" height="194" alt="Image" src="https://github.com/user-attachments/assets/6566740e-313c-4daf-b50a-355ac6fbf2db" />
 <img width="604" height="398" alt="Image" src="https://github.com/user-attachments/assets/840aa474-6f69-4c64-aa18-82837acd2317" />
+<img width="395" height="442" alt="Image" src="https://github.com/user-attachments/assets/9139240f-dc1d-4eaf-892d-5e53db5048ea" />
+
+Videos
+https://github.com/user-attachments/assets/5553e6e5-c3fb-4a0e-bd79-bc564e4384e4
+https://github.com/user-attachments/assets/bda6e78e-3511-4303-9b23-2c2e6a4be917
 
 
 ---
