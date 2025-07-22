@@ -100,8 +100,7 @@ shape-distance-detector/
 
 **Agam Singh**
 Feel free to connect:
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-📧 [your.email@example.com](mailto:your.email@example.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/agam-singh-b34310246/)
 
 ---
 
@@ -116,7 +115,6 @@ This project is licensed under the [MIT License](LICENSE).
 ### ✅ Next Steps
 
 - Rename your Python file to: `shape_distance_detector.py`
-- Add a screenshot or gif and name it `demo.gif` or `demo.png`
 - Push your project to GitHub with the repo name:
 ```
 
