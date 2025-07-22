@@ -1,7 +1,5 @@
-Great! I’ll generate a clean and complete `README.md` file for your GitHub repository `shape-distance-detector`, incorporating your screenshots and video demo with proper formatting. I’ll provide image and video embed sections assuming you’ll upload the media to a `media/` folder in the repo.
 
-
-# 🔷 Shape Distance Detector using OpenCV
+#  Shape Distance Detector using OpenCV
 
 This Python-based real-time application uses your webcam feed to detect common geometric shapes and measure the distance between identical shapes (in centimeters) using OpenCV. It overlays detected shape contours, center points, and distance lines on the live video feed. The application includes an easy calibration process to convert pixel distances into real-world units, ensuring accurate measurements.
 
@@ -90,12 +88,8 @@ shape-distance-detector/
 ---
 
 ## 📸 Demo
+<!-- Uploading "Screenshot 2025-07-22 134116.png"... -->
 
-&#x20;*Figure: Real-time detection of triangles with measured distance (7.97 cm) between their centers. Each triangle is outlined in blue with its center marked in red.*
-
-&#x20;*Figure: Another example showing distance (6.54 cm) between two detected triangles. Each triangle's contour is highlighted, with the distance drawn in green and annotated in yellow.*
-
-&#x20;*Figure: Detection of circles with measured distance (3.19 cm) between their centers. Each circle is outlined and labeled, with the calculated distance displayed above the connecting line.*
 
 ---
 
